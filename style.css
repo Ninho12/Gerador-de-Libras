@@ -66,6 +66,8 @@ button{
 #saida img{
     width: 50px;
     height: 40px;
+    border: 1px solid purple;
+    margin-left: 3px;
 }
 
 #alfabeto img{
