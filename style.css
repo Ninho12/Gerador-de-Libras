@@ -38,7 +38,7 @@ button{
     padding: 10px;
 }
 
-#entrada input{
+#entrada textarea{
     display: block;
     margin-left: 5%;
     width: 90%;
