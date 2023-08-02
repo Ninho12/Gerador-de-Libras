@@ -1,0 +1,36 @@
+/*
+    Arquivo em css para estilizar a pagina
+    do Projeto.
+*/
+
+*{
+    margin: 0px;
+    margin-top: 10px;
+}
+
+div{
+    min-width: 300px;
+    max-width: 600px;
+    margin: 10px auto;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+input{
+    font-size: 15px;
+}
+
+button{
+    background-color: green;
+    color: white;
+    font-style: bold;
+}
+
+#saida{
+    min-height: 300px;
+}
+
+#alfabeto img{
+    min-width: 300px;
+    max-width: 600px;
+}
