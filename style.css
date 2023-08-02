@@ -74,3 +74,12 @@ button{
    width: 100%;
    margin: 10px auto;
 }
+
+footer{
+    background-color: #aaa;
+    padding: 10px;
+}
+
+footer p{
+    font-size: 18px;
+}
